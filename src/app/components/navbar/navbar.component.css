@@ -1,21 +1,28 @@
-.color{
-    background-color: #FAAF03 !important;
-}
-.colorButton{
-    background-color: #FA812F !important;
-}
-.white{
+
+.bold{
     font-weight: bold;
+    color: #FCFDFE !important;
 }
-.beis{
-    background-color: #cdbdb0 !important;
+.granola{
+    background-color: #f5ca99 !important;
 }
-.rojo{
-    background-color: #b83143 !important;
+.strawberry{
+    background-color: #d8412f !important;
 }
-.amarillo{
-    background-color: #f2d696;
+.papaya{
+  background-color: #d8412f !important;
 }
 img{
-    width: 20%;
+    width: 15%;
+}
+.bold2{
+    font-weight: bold;
+    color: #d8412f !important;
+}
+a:hover {
+    color: #f5ca99 !important;
+  }
+.papaya:hover{
+    background-color: #FCFDFE !important;;
+    color: #d8412f !important;;
 }

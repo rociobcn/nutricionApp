@@ -7,12 +7,13 @@
     -o-background-size: cover;
     background-size: cover;
 }
-.beis{
-    background-color: #cdbdb0 !important;
+.granola{
+    background-color: #f5ca99 !important;
 }
-.rojo{
-    color: #b83143 !important;
+.strawberry{
+    color: #d8412f !important;
 }
-.naranja{
-  color: #FA812F !important;
+.papaya{
+  color: #fe7a47 !important;
+  font-weight: 700;
 }
